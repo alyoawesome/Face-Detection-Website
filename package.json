@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alyoawesome/background-generator.git"
+    "url": "git+https://github.com/alyoawesome/Face-Detection-Website.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alyoawesome/background-generator/issues"
+    "url": "https://github.com/alyoawesome/Face-Detection-Website/issues"
   },
-  "homepage": "https://github.com/alyoawesome/background-generator#readme"
+  "homepage": "https://github.com/alyoawesome/Face-Detection-Website/#readme"
 }
